@@ -1,0 +1,12 @@
+{
+    "name": "primera-entrega-franz",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Primer entregable",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Walter Franz",
+    "license": "ISC"
+  }
